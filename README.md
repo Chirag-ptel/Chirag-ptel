@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 I am Chirag Patel 👨🏻‍💻</h1>
-<h3 align="center">DevOps guy who thrives for cloud ☁️ and ❤️ automating stuff</h3>
+<h3 align="center">DevOps guy who thrives for ☁️ and ❤️ automating stuff</h3>
 
 ###
 
