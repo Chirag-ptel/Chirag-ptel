@@ -32,6 +32,8 @@
   <img width="60" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"  />
   <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="ansible logo"  />
+  <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="50" alt="argocd logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="50" alt="prometheus logo"  />
@@ -42,6 +44,11 @@
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="50" alt="apache logo"  />
   <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="50" alt="bitbucket logo"  />
+  <img width="60" />
+  <img src="https://helm.sh/img/helm.svg" height="50"  />
+  <img width="60" />
+  <img src="https://avatars.githubusercontent.com/u/35583233?s=200&v=4" height="50"  />
 </div>
 
 ###
