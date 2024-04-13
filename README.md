@@ -3,23 +3,11 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
@@ -42,10 +30,23 @@
   <img width="60" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="60" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="50" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="50" alt="argocd logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="60" alt="prometheus logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="60" alt="grafana logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" alt="apache logo"  />
+  <img width="40" />
 </div>
+
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
