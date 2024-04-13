@@ -54,6 +54,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Chirag-ptel/Chirag-ptel/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <!--
